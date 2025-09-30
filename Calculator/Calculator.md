@@ -8,4 +8,8 @@
 
 ## Libraries
 - <b>PyQt(GUI)</b>
-- <b>Tkinter</b>
+
+## Features
+- Calculation
+- Record
+- Export <b>(Format : CSV)</b>
